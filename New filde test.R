@@ -1,3 +1,4 @@
 New file test
 
-#Merge conflict
+#Different Merge conflict
+
